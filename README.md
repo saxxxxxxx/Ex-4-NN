@@ -1,7 +1,7 @@
 <H3>NAME   :Saketram R</H3>
 <H3>REG NO :212223230181</H3>
 <H3>EX. NO.4</H3>
-<H3>DATE:</H3>
+<H3>DATE:07/04/24</H3>
 <H1 ALIGN =CENTER>Implementation of MLP with Backpropagation for Multiclassification</H1>
 <H3>Aim:</H3>
 To implement a Multilayer Perceptron for Multi classification
